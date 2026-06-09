@@ -1,18 +1,26 @@
-# React + Vite
+# Tailwind + React Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Learning Tailwind CSS, shadcn/ui, and AI integration with React.
 
-Currently, two official plugins are available:
+## Features
+- Tailwind CSS utility classes + responsive design
+- Dark mode toggle
+- shadcn/ui components (Button, Card, Input, Label)
+- Titanic Survival Predictor UI (connected to FastAPI)
+- AI Chat with conversation history
+- Sarcastic AI assistant (prompt engineering demo)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Stack
+React + Vite + Tailwind CSS + shadcn/ui + Axios
 
-## React Compiler
+## Projects Inside
+| Experiment | Description |
+|---|---|
+| Experiment 1 | Tailwind basics, flexbox, grid, dark mode |
+| Experiment 2 | shadcn/ui login form |
+| Experiment 3 | Titanic survival predictor (ML model) |
+| Experiment 4 | Simple AI chat |
+| Experiment 5 | Full chat UI with conversation history |
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
-
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Related
+Backend: [fastapi-practice](https://github.com/Anurag-Singh2004/fastapi-practice)
